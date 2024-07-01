@@ -1,0 +1,12 @@
+Objects in Javascript 
+Array list
+Objects have keys and values
+let <name_ of _ objects> = {}
+function()
+ we can use bracket notation 
+ or 
+
+
+ for ... in ----> if you want to itarate over an object  using key and values 
+
+ .map()

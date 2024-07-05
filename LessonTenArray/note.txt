@@ -1,0 +1,30 @@
+Array ----are special variables that enable you hold mutiple variables at the same time 
+Array can hold any type of data 
+
+
+Methods to add Items in an array ..... You use bracket notation to acces elements  in array 
+array name[index]
+indexing starts from 0 to going forward
+
+In Arrays we have two types of methods --->  Distructive and Non Distractive
+
+Distractive > means modifying original array
+          .push() --> add elements at the end of the array
+          .pop() ---> delete at the end of an array
+          .unshift() ---->  adds at the beginning of the array
+          .shift() ---> delete an item from the beginning of an array
+          .splice(1, 3) ----> modifying an array by removing, addingreplaces an existing element in an array
+                        adds  and deletes an existing element
+
+Non-Destractive methods>  it does not affect the original array , sort of it creates a copy  
+          .slice ---->  this creates an array from a specific index to a certtain indexing
+
+
+Iteration In array 
+
+for loop; for(initializing) condition, add/negate
+
+.forEach()
+you start with the array name then .forEach
+
+

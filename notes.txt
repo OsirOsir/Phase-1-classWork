@@ -1,0 +1,39 @@
+JS for web interactions 
+
+For you to use Java scripts you have to have
+Node modules
+
+So you have to install nvm  first 
+By default npm  (Our node package manager/module)
+
+how do you store data in Javascript == we use variables (Containers which we can use for later use)
+
+camelCasing = philipOsir
+
+How to declare variables
+      1. var    (it can be accesed with the codes ) you can redclare its more of a global scoped varianle
+      2. let      ()  can be updated within the function scope and now called local variable but not redeclared
+      3. const    ()
+
+Variables data types
+  * numbers (intergers)
+  * strings (textual data)  Prinmitive data type which is primary datatype
+  * boolean true or false aguments
+  * unidentified.. there is no value 
+implicit (done automatically)   explicit(this is done manually you do it ) eg number(5) == "5"
+Comparisons in Javascript
+- loose equality (implicit changes a data type to the favourite)
+- loose inequality
+- strict equality
+- strict inequality
+
+Conditions
+
+function - block of reusable  code
+function <name of function>
+global scope---- s accesible anywghere in your code  (var let)
+function scope ----- accesed inside the function but not anywghere eg the let variable
+block scope --------- in a specific block anything inside the curly brases
+
+parameters are like place holders 
+arguments
